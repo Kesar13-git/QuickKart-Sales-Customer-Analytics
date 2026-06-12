@@ -78,7 +78,6 @@ QuickKart aimed to better understand customer purchasing behavior, sales perform
 
 ### Customer Insights
 <img width="100%" alt="Customer Insights" src="Dashboard/Customer Insights.png">
-Dashboard/Customer Insights.png
 
 ## Repository Structure
 
